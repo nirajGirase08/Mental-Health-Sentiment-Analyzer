@@ -60,3 +60,11 @@ By leveraging TF-IDF vectorization and various ML classifiers such as Random For
 3. **Vectorization:** TF-IDF
 4. **Prediction:** Output predicted mental health category
 
+---
+### 📦 Install Required Libraries
+
+Run the following command to install the dependencies:
+
+```bash
+pip install -r requirements.txt
+   
